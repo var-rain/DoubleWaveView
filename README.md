@@ -2,6 +2,14 @@
 
 #### 效果预览
 
+- 圆形遮罩
+
+![Screen Capture](https://github.com/1934016928/DoubleWaveView/raw/master/capture/screen_capture_1.gif)
+
+- 非圆形遮罩
+
+![Screen Capture](https://github.com/1934016928/DoubleWaveView/raw/master/capture/screen_capture_2.gif)
+
 #### 属性介绍
 - 波浪高度,范围 0-100
 ```
